@@ -6,6 +6,8 @@ LightLayer is a comprehensive cloud hosting provider specializing in lightweight
 
 The company operates 25+ strategically positioned data centers across major global locations including Los Angeles, San Jose, Hong Kong, Manila, Taiwan, Singapore, Tokyo, London, Frankfurt, and Bangkok. What sets LightLayer apart is their focus on premium China-optimized BGP networks (CN2/CU2/CMIN2) and global Anycast infrastructure, ensuring ultra-low-latency access with 1Gbps+ dedicated bandwidth capabilities.
 
+<img width="3700" height="1726" alt="image" src="https://github.com/user-attachments/assets/6e949ec5-a18a-4499-bcf2-b9c86bd9ff36" />
+
 LightLayer's product lineup includes cloud servers (VPS), dedicated servers, and specialized GPU servers featuring NVIDIA RTX 4090 configurations for high-performance computing and AI workloads. The platform supports multiple operating systems including CentOS, Ubuntu, Debian, and Windows Server editions, making it suitable for diverse hosting requirements. With flexible payment options including Alipay, PayPal, and major credit cards, LightLayer caters to a global customer base seeking reliable, cost-effective hosting solutions.
 
 ## LightLayer Official Website
